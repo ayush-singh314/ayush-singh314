@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)]
+
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 <h3 align="center">Aspiring ML Engineer | Learning Deep Learning | Passionate about Competitive Programming & Problem Solving</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Z5VQh0fqT54xG/giphy.gif">
